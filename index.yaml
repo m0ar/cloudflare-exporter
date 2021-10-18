@@ -5,10 +5,10 @@ entries:
       artifacthub.io/changes: |
         - Initial helm chart changelog
     apiVersion: v2
-    appVersion: 0.0.8
-    created: "2021-10-13T11:58:59.100650804Z"
+    appVersion: 0.0.9
+    created: "2021-10-18T09:41:34.615283043Z"
     description: A Helm chart for cloudflare exporter
-    digest: 896b6ae7e579cb500dc092a13b624f9036c2f465b3719f1ed2cb8d3ee119eff0
+    digest: 4d6b238edd1ad345ff3646265b0e97b7b00011b948b112d9f3f7997d9f3690fb
     home: https://github.com/lablabs/cloudflare-exporter
     icon: https://www.cloudflare.com/img/logo-web-badges/cf-logo-on-white-bg.svg
     keywords:
@@ -23,6 +23,6 @@ entries:
     - https://github.com/lablabs/cloudflare-exporter
     type: application
     urls:
-    - https://github.com/m0ar/cloudflare-exporter/releases/download/cloudflare-exporter-0.1.6/cloudflare-exporter-0.1.6.tgz
-    version: 0.1.6
-generated: "2021-10-13T11:58:58.804744034Z"
+    - https://github.com/m0ar/cloudflare-exporter/releases/download/cloudflare-exporter-0.1.7/cloudflare-exporter-0.1.7.tgz
+    version: 0.1.7
+generated: "2021-10-18T09:41:34.35416678Z"
